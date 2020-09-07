@@ -4,7 +4,7 @@ name: PlatformIO CI
 
 on:
   push:
-    branches: [ 2.0.6.1-ender5 ]
+    branches: [ 2.0.6.1-ender5* ]
 
 jobs:
   build:
